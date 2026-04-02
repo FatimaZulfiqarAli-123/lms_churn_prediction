@@ -63,7 +63,11 @@ The system outputs:
 
 ### Example Output:
 🚨 USERS MOST LIKELY TO CHURN:
+
 user_id churn_probability
-102 0.89
-245 0.85
-311 0.81
+
+102       0.89
+
+245       0.85
+
+311       0.81
